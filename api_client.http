@@ -1,0 +1,38 @@
+### Variables
+@baseUrl = http://localhost:8000
+
+### Health Check
+GET {{baseUrl}}/health
+
+### Generate Sample Listings
+POST {{baseUrl}}/generate-listings
+Content-Type: application/json
+
+{
+    "num_listings": 10
+}
+
+### Search Listings
+POST {{baseUrl}}/search-listings?min_price=400000&max_price=800000&min_bedrooms=3&min_bathrooms=2&min_size=2000&n_results=5
+Content-Type: application/json
+
+[
+    "A comfortable three-bedroom house with a spacious kitchen",
+    "A quiet neighborhood with good schools",
+    "Modern amenities and a backyard",
+    "Close to public transportation",
+    "Suburban area with easy access to shops"
+]
+
+### Image Search
+POST {{baseUrl}}/image-search
+Content-Type: multipart/form-data; boundary=----WebKitFormBoundaryABC123
+
+------WebKitFormBoundaryABC123
+Content-Disposition: form-data; name="image"; filename="sample_house.jpeg"
+Content-Type: image/jpeg
+
+< ./data/sample_house.jpg
+------WebKitFormBoundaryABC123--
+
+

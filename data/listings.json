@@ -1,0 +1,92 @@
+[
+  {
+    "neighborhood": "Maplewood",
+    "price": 350000,
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "house_size": 1800,
+    "description": "Charming single-family home with a spacious backyard",
+    "neighborhood_description": "Family-friendly suburb with excellent schools"
+  },
+  {
+    "neighborhood": "River Heights",
+    "price": 800000,
+    "bedrooms": 4,
+    "bathrooms": 3,
+    "house_size": 2500,
+    "description": "Newly built home with open floor plan and modern amenities",
+    "neighborhood_description": "Quiet neighborhood near the river, perfect for outdoor enthusiasts"
+  },
+  {
+    "neighborhood": "Downtown Loft District",
+    "price": 670000,
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "house_size": 1400,
+    "description": "Modern loft in the heart of the city, with floor-to-ceiling windows",
+    "neighborhood_description": "Lively area with galleries, bars, and restaurants"
+  },
+  {
+    "neighborhood": "Pinecrest Village",
+    "price": 450000,
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "house_size": 1900,
+    "description": "Cozy townhome with private patio and community pool",
+    "neighborhood_description": "Well-maintained community with lots of green space"
+  },
+  {
+    "neighborhood": "Lakeside Estates",
+    "price": 1200000,
+    "bedrooms": 5,
+    "bathrooms": 4,
+    "house_size": 3200,
+    "description": "Luxurious lakeside mansion with private dock and sweeping views",
+    "neighborhood_description": "Exclusive gated community with waterfront properties"
+  },
+  {
+    "neighborhood": "Old Town",
+    "price": 540000,
+    "bedrooms": 4,
+    "bathrooms": 3,
+    "house_size": 2100,
+    "description": "Historic Victorian house with updated interiors",
+    "neighborhood_description": "Charming area with boutiques and cafes, close to downtown"
+  },
+  {
+    "neighborhood": "Sunset Hills",
+    "price": 890000,
+    "bedrooms": 4,
+    "bathrooms": 3,
+    "house_size": 2800,
+    "description": "Stunning contemporary home with panoramic city views",
+    "neighborhood_description": "Secluded neighborhood with large lots and unique homes"
+  },
+  {
+    "neighborhood": "Cedar Park",
+    "price": 310000,
+    "bedrooms": 2,
+    "bathrooms": 1,
+    "house_size": 1200,
+    "description": "Affordable condo with updated kitchen and bath, perfect for first-time buyers",
+    "neighborhood_description": "Convenient location close to shopping and public transit"
+  },
+  {
+    "neighborhood": "Grandview",
+    "price": 990000,
+    "bedrooms": 5,
+    "bathrooms": 4,
+    "house_size": 3500,
+    "description": "Elegant estate with gourmet kitchen and luxury finishes",
+    "neighborhood_description": "Prestigious area with estate homes and manicured lawns"
+  },
+  {
+    "neighborhood": "Beachside",
+    "price": 1400000,
+    "bedrooms": 3,
+    "bathrooms": 3,
+    "house_size": 2200,
+    "description": "Oceanfront property with private beach access and stunning views",
+    "neighborhood_description": "Relaxed coastal community with miles of sandy beaches"
+  }
+]
